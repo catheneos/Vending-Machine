@@ -1,0 +1,56 @@
+11/326/2020 20:11:72 Triplemint | D4 | 1.0 | 0.2
+11/21/2020 20:34:11 Triplemint | D4 | 1.0 | 0.2
+11/21/2020 20:41:20 Triplemint | D4 | 1.0 | 0.2
+11/21/2020 20:41:58 Triplemint | D4 | 2.0 | 1.2
+11/21/2020 20:42:05 Triplemint | D4 | 1.2 | 0.4
+[11/21/2020 20:48:01] Triplemint | D4 | 5.0 | 4.2
+[11/21/2020 20:48:12] Triplemint | D4 | 4.2 | 3.4
+11/21/2020 20:49:44 Triplemint | D4 | 5.0 | 4.2
+11/21/2020 20:49:49 Triplemint | D4 | 4.2 | 3.4
+11/21/2020 20:52:13 Triplemint | D4 | $5.0 | 4.2
+11/21/2020 20:52:23 Triplemint | D4 | $4.2 | 3.4
+11/21/2020 21:04:03 User Interaction
+11/21/2020 21:04:45 User Interaction
+11/21/2020 21:04:56 User Fed Money Amount: $5 | Total User Balance $5
+11/21/2020 21:05:08 User Made PurchaseTriplemint | D4 | $5.0 | 4.2
+11/21/2020 21:05:19 User Made PurchaseTriplemint | D4 | $4.2 | 3.4
+11/21/2020 21:05:24 User Given Change $3.4 | Current Balance $0.00
+11/21/2020 21:05:30 User Session Ended
+11/21/2020 21:07:55 User Interaction
+11/21/2020 21:11:15 User Fed Money Amount: $5 | Total User Balance $5
+11/21/2020 21:46:52 User Interaction
+11/21/2020 21:46:57 User Interaction
+11/21/2020 21:55:50 User Interaction
+11/21/2020 21:56:42 User Fed Money Amount: $10 | Total User Balance $10
+11/21/2020 21:57:00 User Made Purchase | Wonka Bar | B3 | $10.00 | 8.50
+11/21/2020 21:57:05 User Given Change $8.50 | Current Balance $0.00
+11/21/2020 21:57:09 User Session Ended
+11/21/2020 22:00:24 User Interaction
+11/21/2020 22:00:34 User Fed Money Amount: $10 | Total User Balance $10
+11/21/2020 22:00:40 User Made Purchase | Wonka Bar | B3 | $10.00 User Funds Before Purchase | $8.50 User Funds After Purchase
+11/21/2020 22:00:42 User Given Change $8.50 | Current Balance $0.00
+11/21/2020 22:00:43 User Session Ended
+11/21/2020 22:18:17 User Interaction
+11/21/2020 22:21:26 User Fed Money Amount: $1 | Total User Balance $1
+11/21/2020 22:22:31 User Made Purchase | Little League Chew | D2 | $1.00 User Funds Before Purchase | $0.05 User Funds After Purchase
+11/21/2020 22:22:51 User Given Change $0.05 | Current Balance $0.00
+11/21/2020 22:23:10 User Session Ended
+11/21/2020 22:24:24 User Interaction
+11/21/2020 22:26:25 User Fed Money Amount: $5 | Total User Balance $5
+11/21/2020 22:26:50 User Fed Money Amount: $5 | Total User Balance $10
+11/21/2020 22:27:08 User Fed Money Amount: $10 | Total User Balance $20
+11/21/2020 22:27:52 User Fed Money Amount: $5 | Total User Balance $25
+11/21/2020 22:28:33 User Made Purchase | Moonpie | B1 | $25.00 User Funds Before Purchase | $23.20 User Funds After Purchase
+11/21/2020 22:28:40 User Given Change $23.20 | Current Balance $0.00
+11/21/2020 22:29:25 User Session Ended
+11/22/2020 13:00:46 User Interaction
+11/22/2020 13:01:31 User Fed Money Amount: $10 | Total User Balance $10
+11/22/2020 13:01:40 User Made Purchase | Triplemint | D4 | $10.00 User Funds Before Purchase | $9.25 User Funds After Purchase
+11/22/2020 13:02:29 User Interaction
+11/22/2020 13:02:38 User Fed Money Amount: $10 | Total User Balance $10
+12/01/2020 08:59:06 User Made Purchase | Triplemint | D4 | $10.00 User Funds Before Purchase | $9.25 User Funds After Purchase
+12/12/2020 17:03:39 User Interaction
+02/04/2021 09:06:40 User Interaction
+02/04/2021 09:06:57 User Fed Money Amount: $10 | Total User Balance $10
+02/04/2021 09:07:11 User Made Purchase | Triplemint | D4 | $10.00 User Funds Before Purchase | $9.25 User Funds After Purchase
+02/04/2021 09:07:18 User Given Change $9.25 | Current Balance $0.00
